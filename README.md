@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luciano+Preis;I'm+20+years+old;I+from+Brazil,+SC;I'm+a+software+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Luciano-Preis">
+  <a href="https://github.com/Preis-Luciano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luciano-Preis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Preis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
